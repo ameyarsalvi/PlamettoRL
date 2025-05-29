@@ -8,4 +8,4 @@ Running DRL frameworks with containers on Palmetto Cluster using headless mode.
    
 ```
 apptainer pull docker://asalvi179/husky_cpsim:all
-'''
+```
